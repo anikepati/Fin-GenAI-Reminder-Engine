@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+redis
+requests
+google-generativeai # New dependency for Gemini
+python-dotenv
